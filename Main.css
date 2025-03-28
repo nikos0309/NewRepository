@@ -1,0 +1,38 @@
+.highlighted-word {
+    color: white; /* Установите нужный цвет */
+}
+
+.text-center {
+    text-align: center;
+}
+
+.word-offset {
+    margin-left: 30%; /* Задает отступ слева */
+    margin-right: auto; /* Автоматически рассчитывает правый отступ */
+}
+
+.text-offset {
+    margin-left: 15%; /* Задает отступ слева */
+    margin-right: 15%; /* Автоматически рассчитывает правый отступ */
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    background-color: rgb(16, 0, 120);
+    font-size: 20px;
+}
+
+li {
+    margin-top: 20px; /* Устанавливает отступ сверху для каждого элемента */
+}
+
+li:first-child {
+    margin-top: 0; /* Убирает верхний отступ у первого элемента списка */
+}
